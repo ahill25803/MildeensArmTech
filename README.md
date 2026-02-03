@@ -1,5 +1,13 @@
 Mildeen’s Arm Tech (MAT) is a vanilla-friendly arm-mounted technology framework for Hytale, built around the remnants of forgotten machines and the work of a wandering shard-hopper named Mildeen.
 
+Long before the present age, an advanced civilization learned to harness elemental lightning — shaping it through rune matrices to power cities, forge weapons, and animate towering techno-magic constructs. When they vanished, their machines did not.
+
+Broken facilities still route storm energy.
+Guardians still patrol forgotten halls.
+Weapon systems still seek hosts.
+
+Mildeens Arm Tech tells its story through exploration rather than exposition. As players traverse ruined lightning complexes and corrupted forge sites, they uncover fragments of lost engineering for targeted upgrades
+At the center of this rediscovery is Mildeen, a red-bearded dwarven blacksmith who has spent his life listening to old metal. After surviving a catastrophic forge accident, Mildeen replaced his shattered arm with an ancient hammer-construct, becoming the first modern smith 
 Traveling between worlds, Mildeen repurposed ancient systems, reconstructed lost weapon platforms, and developed modular arm tech from the echoes of long-abandoned automation. He never stayed in one place long—and what remains are incomplete prototypes, scattered research fragments, and elemental magitech waiting to be reactivated.
 
 MAT introduces chargeable arm weapons with multiple charge tiers, distinct projectiles per tier, and a shared animation pipeline—designed to feel native to Hytale’s pacing and progression. Rather than replacing core gameplay, MAT provides an alternate upgrade path that stays balanced alongside vanilla weapons and armor, framed as the recovery and restoration of legacy machine systems.
